@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GNO Partners Guide",
+  "description": "An intelligent guide discovery tool for GNO Partners that uses Gemini AI to find the most relevant documentation.",
+  "requestFramePermissions": []
+}
